@@ -17,20 +17,18 @@ function TheBirthdayLetter() {
         <div className="app">
             <div className="paper">
                 <div className="letter">
-                    <p>Hi, happy birthday!</p>
+                    <p>happy birthday ndudd!</p>
                     <p>
-                        u’re so amazing. u passed one more chapter in ur life. ik u can do it bcs i
-                        believe in you. see, you did it. i’m so proud of you. stay alive please, we need
-                        to catch up and celebrate our bday party in person. i miss you so much (hope you
-                        feel the same way). i’m still waiting your latest update, jut hit me through dm.
-                        u know exactly where to find me.
+                        semoga hari ini penuh hal-hal kecil yang bikin kamu senyum. thank u for existing,
+                        for being kind, for being strong even when life gets loud. may God favor be upon you,
+                        be gracious to you, and give u peace. enjoy ur day, u deserve all the good things.
                     </p>
                     <p>
-                        once more, enjoy ur new journey. hope Allah bless you and let happiness comes to
-                        you in every single seconds.
+                        once more, happy birthday my beloved baby yang manis lucu menggemaskan 
+                        kesayangan aku cintaku <33
                     </p>
                     <p style={{ textAlign: "right" }}>with love,</p>
-                    <p style={{ textAlign: "right" }}>sky</p>
+                    <p style={{ textAlign: "right" }}>aiyy</p>
                 </div>
             </div>
 
@@ -76,3 +74,4 @@ function TheBirthdayLetter() {
 }
 
 export default TheBirthdayLetter;
+                                                             
